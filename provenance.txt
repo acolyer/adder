@@ -1,0 +1,29 @@
+Template info:
+
+Group: acolyer
+Name: seneca-backend-service
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: acolyer
+Repo: seneca-backend-service
+Branch: master
+Path (within repo): 
+sha: a0955174f539b6f2502020a00c4ae3e1872f1f87
+
+
+Parameter values (passed in on template invocation):
+description='null'
+team-id='T1NPT1S3B'
+name='adder'
+template='seneca-backend-service'
+user-id='U1NPLBWKH'
+role_name='adder'
+group_id='org.acolyer'
+org='acolyer'
+version='0.0.1'
+artifact_id='adder'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='19 07 2016 '
